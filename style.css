@@ -587,6 +587,9 @@ header .follow a:hover {
     color: #666;
     background: #fff;
 }
+.gmail{
+    text-transform:lowerCase;
+}
 
 .footer span {
     color: var(--main-color);
